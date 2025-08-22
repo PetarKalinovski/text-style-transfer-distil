@@ -70,7 +70,8 @@ Output Format
     Mark your final transformed text with [Transferred]:
 
 Example 1: Informal → Formal
-Source Text: "hey can u help me out with this thing?" Target Style: formal
+Source Text: "hey can u help me out with this thing?" 
+Target Style: formal
 
 The original text is informal. The use of "hey" is a casual greeting, "u" is text speak for "you", "help me out" is casual phrasing, and "this thing" is vague. To make it formal, I need to use proper greetings, complete words, professional language, and be more specific.
 
@@ -94,7 +95,8 @@ The original text uses complex vocabulary and sentence structure. "Implementatio
 [Transferred]: We need to look at all the different factors.
 
 Now transform this text:
-Source Text: "{source_text}" Target Style: {target_style}
+Source Text: "{source_text}" 
+Target Style: {target_style}
 
 
 """
