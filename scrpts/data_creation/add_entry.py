@@ -1,10 +1,9 @@
 import dotenv
-from litellm import completion, openrouter_key
+from litellm import completion
 from pathlib import Path
 import sys
 import os
-import datetime
-
+from datetime import datetime
 
 sys.path.append(str(Path(__file__).resolve().parent.parent))
 from utils.prompt_creation import create_cot_prompt_few_shot
@@ -21,14 +20,14 @@ def change_style(input:str, style:str) -> dict:
         dict: A dictionary containing the timestamp, input, style, prompt, response, and model
     information.
     """
-    openrouter_key=os.getenv('OPEN_ROUTER_KEY')
+    openrouter_key=os.getenv('OPEN_ROUTER_KEY_PAID')
     prompt=create_cot_prompt_few_shot(input, style)
     dotenv.load_dotenv()
     messages=[
         {"role": "system", "content": prompt}
     ]
     response=completion(
-        model="openrouter/deepseek/deepseek-r1:free",
+        model="openrouter/openai/gpt-oss-120b",
         messages=messages,
         api_key=openrouter_key
     )
@@ -38,8 +37,8 @@ def change_style(input:str, style:str) -> dict:
         "input": input,
         "style": style,
         "prompt": prompt,
-        "response": response.choices[0].message.content,
-        "model": "openrouter/deepseek/deepseek-r1:free"
+        "response": response.choices[0].message['content'],
+        "model": "openrouter/openai/gpt-oss-120b"
     }
 
     return entry
