@@ -53,4 +53,4 @@ def change_style_multi_step_reasoning(input:str, style:str) -> dict:
         dict: A dictionary containing the timestamp, input, style, prompt, response, and model
     information.
     """
-    return "Not implemented yet"
+    return ""

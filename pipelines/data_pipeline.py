@@ -18,7 +18,8 @@ def main():
                 try:
                     entry = json.loads(line)
                     already_processed.add(entry['input'])
-                except json.JSONDecodeError:
+                except Exception as e:
+                    print("Error reading line:", e)
                     continue
         wnc_data = wnc_data[~wnc_data["Style 1"].isin(already_processed)].reset_index(drop=True)
 

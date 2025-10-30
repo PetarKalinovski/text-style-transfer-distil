@@ -8,10 +8,14 @@ sys.path.append(str(Path(__file__).parent.parent))
 
 
 def get_subset(n=3000):
-    path= 'data/train_en.txt'
+    #path= 'data/train_en.txt'
+    path= 'data/val_en.txt'
     df = pd.read_csv(path, sep='\t', encoding='utf-8')
 
     style1_data = df.iloc[:, 0]
+
+    if n > len(style1_data):
+        n = len(style1_data)
 
     random_sample = style1_data.sample(n, random_state=42)
 
@@ -30,4 +34,7 @@ def save_to_csv(data, filename='training_subset.csv'):
 
 if __name__ == "__main__":
     data = get_subset(n=3000)
-    save_to_csv(data)
+    #filename="training_subset.csv"
+    filename= "testing_subset.csv"
+
+    save_to_csv(data, filename)
