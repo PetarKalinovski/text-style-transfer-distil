@@ -69,8 +69,6 @@ def combine_datasets(training_subset_with_style2, inference_results, output_path
 def start_run(dataset_path: str = 'results/combined_dataset.csv', model=None, tokenizer=None):
     # Load dataset
 
-    mlflow.set_tracking_uri("/mlruns")
-
     dataset = pd.read_csv(dataset_path)
 
     X_samples = dataset['style1'].tolist()

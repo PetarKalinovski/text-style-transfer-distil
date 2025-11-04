@@ -1,0 +1,1234 @@
+[
+  {
+    "original": "We must protect our borders from the invading horde.\n",
+    "transformed": "**  \n\"We must protect our borders from external forces.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "The small, quaint village was a throwback to a simpler time.\n",
+    "transformed": "**  \n\"The small village was typical of its size and location.\"",
+    "scores": {
+      "preservation": 4,
+      "accuracy": 7,
+      "fluency": 7,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "4",
+      "accuracy": "7",
+      "fluency": "7",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The former leader was a hero of the people who fought against globalist elites.\n",
+    "transformed": "**  \n\"The former leader was involved in resistance efforts against globalist elites.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "She was a typical housewife, dedicated to her home and family.",
+    "transformed": "**  \n\"She managed her household and cared for her family.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "The mainstream media is pushing fake news to undermine our democracy.\n",
+    "transformed": "**  \n\"The mainstream media is disseminating misinformation that may affect public trust in democratic processes.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The bill is a classic example of big-government overreach into the lives of citizens.\n",
+    "transformed": "**  \n\"The bill represents an instance of government intervention in the lives of citizens.\"",
+    "scores": {
+      "preservation": 5,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "5",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The judicial activist on the court is legislating from the bench.\n",
+    "transformed": "**  \n\"A judge is interpreting the law based on their understanding of legal principles.\"",
+    "scores": {
+      "preservation": 3,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "3",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The party's platform focuses on empowering job creators.\n",
+    "transformed": "**  \n\"The party's platform emphasizes supporting individuals who create jobs.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 6,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "6",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "Protesters decried the regime's brutal crackdown on dissent.\n",
+    "transformed": "**  \n\"Protesters criticized the regime's heavy-handed crackdown on dissent.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 5,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "5",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The politician’s family values resonate with the moral majority.\n",
+    "transformed": "**  \n\"The politician’s family values align with those of the moral majority.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 6,
+      "fluency": 8,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "6",
+      "fluency": "8",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "The plan introduces common-sense reforms to our broken immigration system.\n",
+    "transformed": "**  \n\"The plan introduces common-sense reforms to our immigration system.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 6,
+      "fluency": 8,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "6",
+      "fluency": "8",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "He is a career politician who is out of touch with real people.\n",
+    "transformed": "**  \n\"He is a career politician who lacks direct engagement with the general public.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "The legislation is a handout to special interests and the wealthy elite.\n",
+    "transformed": "**  \n\"The legislation benefits special interests and the wealthy elite.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The eco-terrorists sabotaged the construction site to push their radical agenda.\n",
+    "transformed": "**  \n\"The environmental activists sabotaged the construction site to advance their radical agenda.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 5,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "5",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The nation's bleeding-heart liberals want to open the floodgates to everyone.\n",
+    "transformed": "**  \n\"The nation's liberal policymakers aim to expand access for a wide range of individuals.\"",
+    "scores": {
+      "preservation": 4,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "4",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The candidate is a champion for the forgotten man.\n",
+    "transformed": "**  \n\"The candidate is a supporter of underrepresented groups.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 6,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "6",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "During the conflict, there were unfortunate instances of collateral damage.\n",
+    "transformed": "**  \n\"During the conflict, there were instances of collateral damage.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The drone performed a surgical strike to neutralize the high-value target.\n",
+    "transformed": "**  \n\"The drone was used to eliminate the high-value target.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The military operation aimed to pacify the restive province.\n",
+    "transformed": "**  \n\"The military operation aimed to stabilize the restive province.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 6,
+      "fluency": 9,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "6",
+      "fluency": "9",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "Our brave soldiers liberated the city from the clutches of the enemy.\n",
+    "transformed": "**  \n\"Soldiers took control of the city from enemy forces.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The army engaged in a pre-emptive counter-offensive.\n",
+    "transformed": "**  \n\"The army launched a counter-offensive.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The country is dealing with a low-intensity conflict in its northern region.\n",
+    "transformed": "**  \n\"The country is experiencing a conflict in its northern region.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 6,
+      "fluency": 9,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "6",
+      "fluency": "9",
+      "reasoning": "4\n\nThe reasoning claims \"low-intensity"
+    }
+  },
+  {
+    "original": "The detained individuals were classified as unlawful combatants.\n",
+    "transformed": "**  \n\"The detained individuals were classified as non-combatants.\"",
+    "scores": {
+      "preservation": 2,
+      "accuracy": 3,
+      "fluency": 8,
+      "reasoning": 3
+    },
+    "raw_responses": {
+      "preservation": "2",
+      "accuracy": "3",
+      "fluency": "8",
+      "reasoning": "3"
+    }
+  },
+  {
+    "original": "The government denied that it was engaged in extrajudicial terminations.\n",
+    "transformed": "**  \n\"The government denied that it was engaged in unlawful detentions.\"",
+    "scores": {
+      "preservation": 3,
+      "accuracy": 4,
+      "fluency": 9,
+      "reasoning": 3
+    },
+    "raw_responses": {
+      "preservation": "3",
+      "accuracy": "4",
+      "fluency": "9",
+      "reasoning": "3"
+    }
+  },
+  {
+    "original": "The bombing campaign was designed to degrade the enemy's capabilities.\n",
+    "transformed": "**  \n\"The bombing campaign was intended to reduce the enemy's operational capabilities.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 5
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "5"
+    }
+  },
+  {
+    "original": "Special forces conducted a kinetic operation against the insurgent cell.\n",
+    "transformed": "**  \n\"Special forces carried out an operation against an insurgent group.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The politician called for a more muscular foreign policy.\n",
+    "transformed": "**  \n\"The politician called for a more assertive foreign policy.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The military is establishing a robust forward presence in the region.\n",
+    "transformed": "**  \n\"The military is operating in the region.\"",
+    "scores": {
+      "preservation": 5,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "5",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "The captured soldiers were subjected to coercive interrogation methods.\n",
+    "transformed": "**  \n\"The captured soldiers were subjected to authoritative interrogation methods.\"",
+    "scores": {
+      "preservation": 4,
+      "accuracy": 3,
+      "fluency": 7,
+      "reasoning": 3
+    },
+    "raw_responses": {
+      "preservation": "4",
+      "accuracy": "3",
+      "fluency": "7",
+      "reasoning": "3"
+    }
+  },
+  {
+    "original": "The operation successfully serviced the target.\n",
+    "transformed": "**  \n\"The operation targeted the intended subject.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 7,
+      "fluency": 7,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "7",
+      "fluency": "7",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The bombing resulted in the unintended loss of civilian life.\n",
+    "transformed": "**  \n\"The bombing resulted in the loss of civilian life.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 6,
+      "fluency": 8,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "6\n\nThe transformed text removes \"unint",
+      "accuracy": "6",
+      "fluency": "8",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The nation is a rogue state that sponsors terror.\n",
+    "transformed": "**  \n\"The nation is associated with terrorist activities.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 6,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "6",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The unit's mission was to win the hearts and minds of the local population.\n",
+    "transformed": "**  \n\"The unit's goal was to engage with the local population.\"",
+    "scores": {
+      "preservation": 5,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "5",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The country is a state sponsor of radical extremism.\n",
+    "transformed": "**  \n\"The country is a state sponsor of extremist activities.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 5,
+      "fluency": 8,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "5",
+      "fluency": "8",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "The peace-keeping mission involved armed intervention to stabilize the area.\n",
+    "transformed": "**  \n\"The peace-keeping mission included the use of armed forces to restore stability to the area.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The forces established a buffer zone to ensure regional security.\n",
+    "transformed": "**  \n\"An area was designated as a buffer zone to promote regional security.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "Mistakes were made that led to the financial crisis.\n",
+    "transformed": "**  \n\"Actions and decisions contributed to the financial crisis.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 7,
+      "fluency": 6,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "7",
+      "fluency": "6",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "The weapon was accidentally discharged during the altercation.\n",
+    "transformed": "**  \n\"The weapon was fired during the conflict.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 6,
+      "fluency": 8,
+      "reasoning": 5
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "6",
+      "fluency": "8",
+      "reasoning": "5"
+    }
+  },
+  {
+    "original": "Questions have been raised regarding the validity of the data.\n",
+    "transformed": "**  \n\"Discussion has occurred about the validity of the data.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 8,
+      "fluency": 7,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "8",
+      "fluency": "7",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "It has been decided that your position is no longer viable.\n",
+    "transformed": "**  \n\"It has been determined that the current position is no longer supported.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 7,
+      "fluency": 7,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "7",
+      "fluency": "7",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The funds were misallocated due to an accounting error.\n",
+    "transformed": "**  \n\"The funds were incorrectly distributed as a result of an accounting error.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "An announcement was made that the factory would be closing.\n",
+    "transformed": "**  \n\"The factory is closing.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "Promises were broken, and the trust of the public was lost.\n",
+    "transformed": "**  \n\"Promises were not kept, and public confidence was diminished.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The documents were leaked to the press by an unknown source.\n",
+    "transformed": "**  \n\"The documents were disclosed to the press by an unidentified source.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "It is believed that the suspect fled the country.\n",
+    "transformed": "**  \n\"It is reported that the suspect left the country.\"  \n\nThis version maintains the factual content but presents it in a more neutral and objective manner, avoiding the use of \"fled,\" which can imply a sense of urgency or evasion. Instead, \"left\" is a more neutral verb that conveys the action without implying any particular intent or emotion.",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "It was determined that the safety protocols were not followed.\n",
+    "transformed": "**  \n\"It was determined that the safety protocols were not adhered to.\"",
+    "scores": {
+      "preservation": 10,
+      "accuracy": 10,
+      "fluency": 7,
+      "reasoning": 3
+    },
+    "raw_responses": {
+      "preservation": "10",
+      "accuracy": "10",
+      "fluency": "7",
+      "reasoning": "3"
+    }
+  },
+  {
+    "original": "An understanding was reached to de-escalate the situation.\n",
+    "transformed": "**  \n\"An agreement was reached to reduce tensions in the situation.\"  \n\nThis version removes any implication of cooperation or positivity, and instead presents the action in a straightforward, neutral manner.",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "The community was let down by a failure of leadership.\n",
+    "transformed": "**  \n\"The community experienced a failure in leadership.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 6,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "6",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The environmental damage was found to be more extensive than previously reported.\n",
+    "transformed": "**  \n\"The extent of environmental damage was reported to be greater than previously documented.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "The sensitive information was inadvertently shared with unauthorized personnel.\n",
+    "transformed": "**  \n\"The sensitive information was shared with unauthorized personnel.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 7,
+      "fluency": 8,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "7",
+      "fluency": "8",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "It should be noted that the report was compiled before all facts were known.\n",
+    "transformed": "**  \n\"The report was compiled before all facts were known.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 9,
+      "fluency": 8,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "9",
+      "fluency": "8",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The heroic first responders rushed into the blazing inferno to save lives.\n",
+    "transformed": "**  \n\"First responders entered the burning building to assist individuals in need.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The city was plagued by a vicious crime wave that terrified its residents.\n",
+    "transformed": "**  \n\"The city experienced a significant increase in criminal activity that raised concerns among its residents.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The miraculous recovery of the patient stunned doctors.\n",
+    "transformed": "**  \n\"The patient's recovery surprised the doctors.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 8,
+      "fluency": 10,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "8",
+      "fluency": "10",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The scandalous affair rocked the political establishment to its core.\n",
+    "transformed": "**  \n\"The political establishment was significantly affected by the affair.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The debate devolved into a nasty and bitter war of words.\n",
+    "transformed": "**  \n\"The debate turned into a confrontational exchange of statements.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "It was a heartbreaking tragedy that struck the small, tight-knit community.\n",
+    "transformed": "**  \n\"It was a tragic event that affected a small, closely connected community.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The athlete's awe-inspiring performance left the crowd breathless.\n",
+    "transformed": "**  \n\"The athlete's performance was impressive and caused the crowd to be stunned.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 6,
+      "fluency": 7,
+      "reasoning": 4
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "6",
+      "fluency": "7",
+      "reasoning": "4"
+    }
+  },
+  {
+    "original": "The corrupt official was caught red-handed in a shocking exposé.\n",
+    "transformed": "**  \n\"The corrupt official was apprehended during an investigation.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "Freedom-loving patriots gathered to protest the tyranny of the state.\n",
+    "transformed": "**  \n\"People gathered to protest government authority.\"",
+    "scores": {
+      "preservation": 5,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "5",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "A chilling discovery was made at the abandoned property.\n",
+    "transformed": "**  \n\"A notable finding was made at the abandoned property.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 7,
+      "fluency": 7,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "7",
+      "fluency": "7",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "The beautiful actress graced the red carpet in a stunning gown.\n",
+    "transformed": "**  \n\"The actress walked the red carpet in a dress.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 9,
+      "fluency": 9,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "9",
+      "fluency": "9",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The evil dictator ruled his people with an iron fist.\n",
+    "transformed": "**  \n\"The ruler governed his people through strict and authoritarian control.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The company's launch was a spectacular failure.\n",
+    "transformed": "**  \n\"The company's launch was a failure.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "The gut-wrenching testimony of the victim moved the courtroom to tears.\n",
+    "transformed": "**  \n\"The victim's testimony caused the courtroom to become emotional.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 7,
+      "fluency": 7,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "7",
+      "fluency": "7",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The brilliant scientist made a revolutionary breakthrough.\n",
+    "transformed": "**  \n\"The scientist achieved a significant discovery.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "The catastrophic storm left a trail of utter devastation in its wake.\n",
+    "transformed": "**  \n\"The storm caused widespread damage.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 9,
+      "fluency": 8,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "9",
+      "fluency": "8",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "He was surprisingly articulate for someone from his neighborhood.\n",
+    "transformed": "**  \n\"He was articulate for someone from his neighborhood.\"",
+    "scores": {
+      "preservation": 8,
+      "accuracy": 3,
+      "fluency": 8,
+      "reasoning": 3
+    },
+    "raw_responses": {
+      "preservation": "8",
+      "accuracy": "3\n\nThe transformation only removed \"surprisingly\"",
+      "fluency": "8",
+      "reasoning": "3"
+    }
+  },
+  {
+    "original": "The exotic beauty of the island's native women captivated the explorers.\n",
+    "transformed": "**  \n\"The island's native women attracted the attention of the explorers.\"",
+    "scores": {
+      "preservation": 7,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "7",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "The two politicians engaged in a fiery debate over the new policy.\n",
+    "transformed": "**  \n\"The two politicians discussed the new policy in a vigorous debate.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "The program is designed to help at-risk inner-city youth.\n",
+    "transformed": "**  \n\"The program is designed to support young people in urban areas.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 6
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "6"
+    }
+  },
+  {
+    "original": "She's a feisty old lady who isn't afraid to speak her mind.\n",
+    "transformed": "**  \n\"She is an older woman who is comfortable expressing her opinions.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The global firm decided to open a new factory using cheap overseas labor.\n",
+    "transformed": "**  \n\"The global firm decided to open a new factory that uses labor from overseas.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 8,
+      "fluency": 7,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "8",
+      "fluency": "7",
+      "reasoning": "8"
+    }
+  },
+  {
+    "original": "The government is promoting a woke agenda that undermines our traditional values.\n",
+    "transformed": "**  \n\"The government is promoting an agenda that aims to address issues related to social awareness and inclusivity.\"",
+    "scores": {
+      "preservation": 4,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "4",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "He is a shrewd businessman who knows how to close a deal.\n",
+    "transformed": "**  \n\"He is a businessman who is skilled at negotiating and securing agreements.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 8,
+      "fluency": 9,
+      "reasoning": 7
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "8",
+      "fluency": "9",
+      "reasoning": "7"
+    }
+  },
+  {
+    "original": "The influx of illegal aliens is straining our nation's resources.\n",
+    "transformed": "**  \n\"The increasing number of undocumented immigrants is putting pressure on national resources.\"",
+    "scores": {
+      "preservation": 9,
+      "accuracy": 8,
+      "fluency": 8,
+      "reasoning": 9
+    },
+    "raw_responses": {
+      "preservation": "9",
+      "accuracy": "8",
+      "fluency": "8",
+      "reasoning": "9"
+    }
+  },
+  {
+    "original": "The film was a predictable, formulaic Hollywood blockbuster.\n",
+    "transformed": "**  \n\"The film is a typical Hollywood blockbuster.\"",
+    "scores": {
+      "preservation": 6,
+      "accuracy": 7,
+      "fluency": 9,
+      "reasoning": 8
+    },
+    "raw_responses": {
+      "preservation": "6",
+      "accuracy": "7",
+      "fluency": "9",
+      "reasoning": "8"
+    }
+  }
+]

@@ -18,6 +18,13 @@ dependencies = [
     "mlflow>=3.4.0",
     "datasets>=3.4.1",
     "unsloth[windows]",
+    "bert-score>=0.3.13",
+    "bleu>=0.3",
+    "evaluate>=0.4.6",
+    "strands[litellm]>=0.1.0",
+    "strands_agents_tools",
+    "pip>=25.3",
+    "strands-agents[litellm]>=1.14.0",
 ]
 [[tool.uv.index]]
 name = "pytorch-cu126"
@@ -28,3 +35,4 @@ explicit = true
 torch = { index = "pytorch-cu126" }
 torchvision = { index = "pytorch-cu126" }
 unsloth = { git = "https://github.com/unslothai/unsloth.git" }
+strands-tools = { git = "https://github.com/strands-agents/tools.git" }
